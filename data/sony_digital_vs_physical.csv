@@ -1,0 +1,8 @@
+fiscal_year,period,digital_ratio_pct,physical_ratio_pct,source
+FY2015,Full Year,19,81,PushSquare/ResetEra (Sony historical data)
+FY2020,Full Year,65,35,PushSquare/ResetEra (pandemic boost)
+FY2023,Full Year,70,30,PushSquare/ResetEra
+FY2024,Full Year,76,24,Notebookcheck (Sony FY2024 Q4 Supplemental Report)
+FY2024,Q4,80,20,GameSpot
+FY2025,Full Year,78,22,Niche Gamer / PushSquare (Sony FY2025 Q4 Financial Results)
+FY2025,Q4,85,15,Niche Gamer / GameSpot (Sony FY2025 Q4 Financial Results May 8 2026)
